@@ -1,0 +1,11 @@
+{
+  "slug": "atomic-batch-builder",
+  "name": "Atomic Batch Builder",
+  "kind": "batch",
+  "description": "Compose independent instructions and estimate whether they can land atomically in v1.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
