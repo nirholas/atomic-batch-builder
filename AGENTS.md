@@ -8,7 +8,7 @@ Compose independent instructions and estimate whether they can land atomically i
 
 - Source: https://github.com/nirholas/atomic-batch-builder
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
